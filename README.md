@@ -15,7 +15,7 @@ INDEX: user_id, date, category_id
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/tanmaxsharma/Expense-Tracker--MachineRound-.git
 cd expense-tracker
 
 # 2. Run everything
